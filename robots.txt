@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://appu654321.github.io/havengrove-community-society/sitemap.xml
